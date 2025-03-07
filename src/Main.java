@@ -92,7 +92,7 @@ public class Main {
                             break;
 
                     }
-
+                    break;
 
                 case 5:
                     System.out.println("5) Crie uma classe chamada “Pessoa” com atributos “nome” e “idade”. Implemente um\n método chamado “falar” que imprime uma mensagem com o nome da pessoa.");
@@ -200,16 +200,6 @@ public class Main {
                     System.out.println("\nSeus funcionários terão R$"+f.aumentarSalario(f.salario, f.aumento)+ " de aumento esse mês.");
 
                     System.out.println("O novo salário é de = "+f.novoSalario(f.salario, f.nSalario));
-
-
-
-
-
-
-
-
-
-
 
 
             }
